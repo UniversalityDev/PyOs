@@ -1,4 +1,4 @@
-import osimport os
+import os
 
 # ASCII art using fsymbols.com
 prompt_ascii = """
