@@ -82,4 +82,4 @@ while True:
 
     else:
         print("Invalid command. Type 'help' for a list of commands.")
-￼Enter
+
